@@ -1,0 +1,13 @@
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="allowDataCollection" value="true" />
+    <option name="isHighContrast" value="true" />
+    <option name="isWizardShown" value="true" />
+    <option name="pristineConfig" value="false" />
+    <option name="statusBarTheme" value="false" />
+    <option name="accentColor" value="80cbc4" />
+    <option name="selectedTheme" value="DARKER" />
+    <option name="userId" value="-73744629:1698fa666a1:-8000" />
+    <option name="version" value="3.10.0" />
+  </component>
+</application>

@@ -1,0 +1,84 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="strategy" />
+      <item value="opponent" />
+      <item value="externalsort" />
+      <item value="chunk" />
+      <item value="Sink" />
+      <item value="from" />
+      <item value="into" />
+      <item value="scheduler" />
+      <item value="scheuler" />
+      <item value="concurrent" />
+      <item value="Strategy" />
+      <item value="Robin" />
+      <item value="simulates" />
+      <item value="Transformer" />
+      <item value="NewReader returns a new Reader that wraps r by transforming the bytes read" />
+      <item value="fetcher" />
+      <item value="Fetch" />
+      <item value="expected" />
+      <item value="constellation" />
+      <item value="occupation" />
+      <item value="String returns a string representation of the type." />
+      <item value="Occupation" />
+      <item value="Parser" />
+      <item value="fetching" />
+      <item value="Decoder" />
+      <item value="crawler" />
+      <item value="maze at next is 0&#10;&#9;&#9;&#9;// and steps at next is 0&#10;&#9;&#9;&#9;// and next != start" />
+      <item value="// maze at next is 0&#10;&#9;&#9;&#9;// and steps at next is 0&#10;&#9;&#9;&#9;// and next != start" />
+      <item value="maze" />
+      <item value="Mozilla" />
+      <item value="Mutex" />
+      <item value="generator" />
+      <item value="period" />
+      <item value="citizen" />
+      <item value="sched" />
+      <item value="It returns the number of bytes written and any write error encountered." />
+      <item value="Spaces are always added between operands and a newline is appended." />
+      <item value="Fprintln formats using the default formats for its operands and writes to w." />
+      <item value="actual" />
+      <item value="Trangle" />
+      <item value="triangle" />
+      <item value="container" />
+      <item value="Triangle" />
+      <item value="excpected" />
+      <item value="excpect" />
+      <item value="superfluous" />
+      <item value="Manual" />
+      <item value="Manul" />
+      <item value="caused" />
+      <item value="records an error and the operation and file path that caused it." />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="56" />
+        <entry key="ENGLISH" value="75" />
+        <entry key="CHINESE_TRADITIONAL" value="1" />
+        <entry key="CHINESE_CLASSICAL" value="1" />
+        <entry key="CHINESE_CANTONESE" value="22" />
+      </map>
+    </option>
+  </component>
+  <component name="Settings">
+    <option name="baiduTranslateSettings">
+      <app-key>
+        <option name="appId" value="20180523000164652" />
+        <option name="appKeyConfigured" value="true" />
+        <option name="primaryLanguage" value="CHINESE" />
+      </app-key>
+    </option>
+    <option name="googleTranslateSettings">
+      <google-translate>
+        <option name="primaryLanguage" value="CHINESE_TRADITIONAL" />
+        <option name="useTranslateGoogleCom" value="false" />
+      </google-translate>
+    </option>
+    <option name="ignoreRegExp" value="" />
+    <option name="keepFormat" value="true" />
+    <option name="showStatusIcon" value="false" />
+    <option name="translator" value="fanyi.baidu" />
+  </component>
+</application>
