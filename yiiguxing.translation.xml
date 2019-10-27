@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="nil" />
       <item value="strategy" />
       <item value="opponent" />
       <item value="externalsort" />
@@ -50,7 +51,6 @@
       <item value="Manual" />
       <item value="Manul" />
       <item value="caused" />
-      <item value="records an error and the operation and file path that caused it." />
     </histories>
     <option name="languageScores">
       <map>
@@ -66,19 +66,16 @@
     <option name="baiduTranslateSettings">
       <app-key>
         <option name="appId" value="20180523000164652" />
-        <option name="appKeyConfigured" value="true" />
         <option name="primaryLanguage" value="CHINESE" />
       </app-key>
     </option>
     <option name="googleTranslateSettings">
       <google-translate>
         <option name="primaryLanguage" value="CHINESE_TRADITIONAL" />
-        <option name="useTranslateGoogleCom" value="false" />
       </google-translate>
     </option>
     <option name="ignoreRegExp" value="" />
     <option name="keepFormat" value="true" />
     <option name="showStatusIcon" value="false" />
-    <option name="translator" value="fanyi.baidu" />
   </component>
 </application>
