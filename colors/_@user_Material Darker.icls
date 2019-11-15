@@ -4,18 +4,12 @@
     <property name="created">2019-03-18T15:14:01</property>
     <property name="ide">GoLand</property>
     <property name="ideVersion">2018.3.5.0.0</property>
-    <property name="modified">2019-11-15T10:00:57</property>
+    <property name="modified">2019-11-15T10:07:19</property>
     <property name="originalScheme">Material Darker</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.3" />
-  <font>
-    <option name="EDITOR_FONT_NAME" value="Cascadia Code" />
-    <option name="EDITOR_FONT_SIZE" value="16" />
-  </font>
-  <font>
-    <option name="EDITOR_FONT_NAME" value="Menlo" />
-    <option name="EDITOR_FONT_SIZE" value="16" />
-  </font>
+  <option name="EDITOR_FONT_SIZE" value="16" />
+  <option name="EDITOR_FONT_NAME" value="Monaco" />
   <option name="CONSOLE_FONT_NAME" value="Meslo LG M for Powerline" />
   <option name="CONSOLE_FONT_SIZE" value="14" />
   <option name="CONSOLE_LINE_SPACING" value="1.15" />
@@ -613,7 +607,7 @@
     </option>
     <option name="DEFAULT_BLOCK_COMMENT">
       <value>
-        <option name="FOREGROUND" value="616161" />
+        <option name="FOREGROUND" value="b1b1b1" />
         <option name="FONT_TYPE" value="3" />
       </value>
     </option>
@@ -649,26 +643,26 @@
     </option>
     <option name="DEFAULT_DOC_COMMENT">
       <value>
-        <option name="FOREGROUND" value="616161" />
+        <option name="FOREGROUND" value="b1b1b1" />
         <option name="FONT_TYPE" value="3" />
       </value>
     </option>
     <option name="DEFAULT_DOC_COMMENT_TAG">
       <value>
-        <option name="FOREGROUND" value="8c8c8c" />
+        <option name="FOREGROUND" value="c6c6c6" />
         <option name="FONT_TYPE" value="3" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_DOC_COMMENT_TAG_VALUE">
       <value>
-        <option name="FOREGROUND" value="616161" />
+        <option name="FOREGROUND" value="b1b1b1" />
         <option name="FONT_TYPE" value="3" />
       </value>
     </option>
     <option name="DEFAULT_DOC_MARKUP">
       <value>
-        <option name="FOREGROUND" value="616161" />
+        <option name="FOREGROUND" value="b1b1b1" />
         <option name="FONT_TYPE" value="3" />
       </value>
     </option>
@@ -726,7 +720,7 @@
     </option>
     <option name="DEFAULT_LINE_COMMENT">
       <value>
-        <option name="FOREGROUND" value="616161" />
+        <option name="FOREGROUND" value="b1b1b1" />
         <option name="FONT_TYPE" value="3" />
       </value>
     </option>
@@ -905,7 +899,7 @@
     </option>
     <option name="GO_BLOCK_COMMENT">
       <value>
-        <option name="FOREGROUND" value="616161" />
+        <option name="FOREGROUND" value="7aa97b" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -989,7 +983,7 @@
     </option>
     <option name="GO_LINE_COMMENT">
       <value>
-        <option name="FOREGROUND" value="616161" />
+        <option name="FOREGROUND" value="7aa97b" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
