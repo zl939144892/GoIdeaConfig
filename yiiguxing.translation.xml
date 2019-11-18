@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ReadString reads until the first occurrence of delim in the input," />
+      <item value="delim" />
+      <item value="sema" />
       <item value="Duration" />
       <item value="license" />
       <item value="cancel as soon as the operations running in this Context complete:" />
@@ -48,18 +51,17 @@
       <item value="Fprintln formats using the default formats for its operands and writes to w." />
       <item value="actual" />
       <item value="Trangle" />
-      <item value="triangle" />
-      <item value="container" />
-      <item value="Triangle" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="62" />
-        <entry key="ENGLISH" value="80" />
+        <entry key="CHINESE" value="65" />
+        <entry key="ENGLISH" value="81" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="CHINESE_CANTONESE" value="22" />
+        <entry key="RUSSIAN" value="1" />
         <entry key="FRENCH" value="1" />
+        <entry key="TURKISH" value="1" />
       </map>
     </option>
   </component>
