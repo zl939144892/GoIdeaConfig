@@ -8,6 +8,15 @@
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="f12" />
   </action>
+  <action id="Arrangement.Alias.Rule.Edit" />
+  <action id="Arrangement.Rule.Edit" />
+  <action id="ChangesView.Rename">
+    <keyboard-shortcut first-keystroke="shift f6" />
+  </action>
+  <action id="Console.TableResult.EditValue">
+    <keyboard-shortcut first-keystroke="enter" />
+    <keyboard-shortcut first-keystroke="alt enter" />
+  </action>
   <action id="Diff.NextChange">
     <keyboard-shortcut first-keystroke="shift meta close_bracket" />
   </action>
@@ -35,6 +44,10 @@
   <action id="EditorPreviousWordInDifferentHumpsModeWithSelection">
     <keyboard-shortcut first-keystroke="shift ctrl left" />
   </action>
+  <action id="Git.Reword.Commit">
+    <keyboard-shortcut first-keystroke="shift f6" />
+  </action>
+  <action id="GotoNextError" />
   <action id="GotoRelated" />
   <action id="JumpToLastWindow" />
   <action id="Macro.Format And Save">
@@ -58,5 +71,13 @@
     <keyboard-shortcut first-keystroke="alt space" />
   </action>
   <action id="SaveAll" />
+  <action id="ShelvedChanges.Rename">
+    <keyboard-shortcut first-keystroke="shift f6" />
+  </action>
   <action id="Vcs.UpdateProject" />
+  <action id="ViewToolBar">
+    <keyboard-shortcut first-keystroke="f2" />
+  </action>
+  <action id="XDebugger.EditWatch" />
+  <action id="XDebugger.SetValue" />
 </keymap>
