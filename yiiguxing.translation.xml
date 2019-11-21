@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Idle" />
       <item value="realm" />
       <item value="Accounts defines a key/value for user/pass list of authorized logins." />
       <item value="returns the value for the given key if it exists, otherwise it panics." />
@@ -50,12 +51,11 @@
       <item value="period" />
       <item value="citizen" />
       <item value="sched" />
-      <item value="It returns the number of bytes written and any write error encountered." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="69" />
-        <entry key="ENGLISH" value="84" />
+        <entry key="CHINESE" value="70" />
+        <entry key="ENGLISH" value="85" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="CHINESE_CANTONESE" value="22" />
