@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Duration" />
+      <item value="Unix" />
       <item value="mutex" />
       <item value="Repo" />
       <item value="Marshal" />
@@ -15,7 +17,6 @@
       <item value="ReadString reads until the first occurrence of delim in the input," />
       <item value="delim" />
       <item value="sema" />
-      <item value="Duration" />
       <item value="license" />
       <item value="cancel as soon as the operations running in this Context complete:" />
       <item value="Canceling this context releases resources associated with it, so code should" />
@@ -50,12 +51,11 @@
       <item value="crawler" />
       <item value="maze at next is 0&#10;&#9;&#9;&#9;// and steps at next is 0&#10;&#9;&#9;&#9;// and next != start" />
       <item value="// maze at next is 0&#10;&#9;&#9;&#9;// and steps at next is 0&#10;&#9;&#9;&#9;// and next != start" />
-      <item value="maze" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="76" />
-        <entry key="ENGLISH" value="91" />
+        <entry key="CHINESE" value="78" />
+        <entry key="ENGLISH" value="93" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="CHINESE_CANTONESE" value="22" />
