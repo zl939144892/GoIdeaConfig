@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="store" />
       <item value="Codecs" />
       <item value="Duration" />
       <item value="Unix" />
@@ -50,12 +51,11 @@
       <item value="fetching" />
       <item value="Decoder" />
       <item value="crawler" />
-      <item value="maze at next is 0&#10;&#9;&#9;&#9;// and steps at next is 0&#10;&#9;&#9;&#9;// and next != start" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="79" />
-        <entry key="ENGLISH" value="94" />
+        <entry key="CHINESE" value="80" />
+        <entry key="ENGLISH" value="95" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="CHINESE_CANTONESE" value="22" />
