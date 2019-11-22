@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Indirect" />
+      <item value="reflect" />
+      <item value="containers" />
       <item value="Idle" />
       <item value="realm" />
       <item value="Accounts defines a key/value for user/pass list of authorized logins." />
@@ -48,14 +51,11 @@
       <item value="Mozilla" />
       <item value="Mutex" />
       <item value="generator" />
-      <item value="period" />
-      <item value="citizen" />
-      <item value="sched" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="70" />
-        <entry key="ENGLISH" value="85" />
+        <entry key="CHINESE" value="73" />
+        <entry key="ENGLISH" value="88" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="CHINESE_CANTONESE" value="22" />
