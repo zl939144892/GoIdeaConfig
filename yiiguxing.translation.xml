@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="mutex" />
       <item value="Repo" />
       <item value="Marshal" />
       <item value="Indirect" />
@@ -50,12 +51,11 @@
       <item value="maze at next is 0&#10;&#9;&#9;&#9;// and steps at next is 0&#10;&#9;&#9;&#9;// and next != start" />
       <item value="// maze at next is 0&#10;&#9;&#9;&#9;// and steps at next is 0&#10;&#9;&#9;&#9;// and next != start" />
       <item value="maze" />
-      <item value="Mozilla" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="75" />
-        <entry key="ENGLISH" value="90" />
+        <entry key="CHINESE" value="76" />
+        <entry key="ENGLISH" value="91" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="CHINESE_CANTONESE" value="22" />
