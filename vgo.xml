@@ -1,0 +1,9 @@
+<application>
+  <component name="vgo">
+    <proxies>
+      <list>
+        <option value="https://goproxy.io" />
+      </list>
+    </proxies>
+  </component>
+</application>
