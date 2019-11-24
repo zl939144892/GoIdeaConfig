@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="registry" />
       <item value="Caller" />
       <item value="alarm" />
       <item value=" plus a boolean value&#10;// whether at least one value exists for the given key." />
@@ -50,12 +51,11 @@
       <item value="constellation" />
       <item value="occupation" />
       <item value="String returns a string representation of the type." />
-      <item value="Occupation" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="84" />
-        <entry key="ENGLISH" value="99" />
+        <entry key="CHINESE" value="85" />
+        <entry key="ENGLISH" value="100" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="CHINESE_CANTONESE" value="22" />
