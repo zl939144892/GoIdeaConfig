@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Fatal" />
+      <item value="atal" />
       <item value="latency" />
       <item value="Individual sessions can be deleted by setting Options" />
       <item value="registry" />
@@ -49,16 +51,15 @@
       <item value="NewReader returns a new Reader that wraps r by transforming the bytes read" />
       <item value="fetcher" />
       <item value="Fetch" />
-      <item value="expected" />
-      <item value="constellation" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="87" />
-        <entry key="ENGLISH" value="102" />
+        <entry key="CHINESE" value="89" />
+        <entry key="ENGLISH" value="103" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="CHINESE_CANTONESE" value="22" />
+        <entry key="BASQUE" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="TURKISH" value="1" />
