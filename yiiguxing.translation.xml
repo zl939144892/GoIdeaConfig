@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="A middleware can be used to collect all the errors and push them to a database together," />
+      <item value="It's a good idea to call Error for each error that occurred during the resolution of a request." />
+      <item value="Error attaches an error to the current context. The error is pushed to a list of errors." />
       <item value="Fatal" />
       <item value="atal" />
       <item value="latency" />
@@ -48,14 +51,11 @@
       <item value="Robin" />
       <item value="simulates" />
       <item value="Transformer" />
-      <item value="NewReader returns a new Reader that wraps r by transforming the bytes read" />
-      <item value="fetcher" />
-      <item value="Fetch" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="89" />
-        <entry key="ENGLISH" value="103" />
+        <entry key="CHINESE" value="92" />
+        <entry key="ENGLISH" value="106" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="CHINESE_CANTONESE" value="22" />
