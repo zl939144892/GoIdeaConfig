@@ -1,7 +1,4 @@
 <application>
-  <component name="CodeFoldingSettings">
-    <option name="COLLAPSE_IMPORTS" value="false" />
-  </component>
   <component name="Go">
     <option name="detectGoPackageFromClipboard" value="false" />
     <option name="renamePackageOnDirectoryRenaming" value="YES" />
