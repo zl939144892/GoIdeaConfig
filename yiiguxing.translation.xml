@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Use appends Handler(s) to the current Party's routes and child routes.&#10;// If the current Party is the root, then it registers the middleware to all child Parties' routes too.&#10;//&#10;// Call order matters, it should be called right before the routes that they care about these handlers.&#10;//&#10;// If it's called after the routes then these handlers will never be executed.&#10;// Use `UseGlobal` if you want to register begin handlers(middleware)&#10;// that should be always run before all application's routes." />
       <item value="A middleware can be used to collect all the errors and push them to a database together," />
       <item value="It's a good idea to call Error for each error that occurred during the resolution of a request." />
       <item value="Error attaches an error to the current context. The error is pushed to a list of errors." />
@@ -50,12 +51,11 @@
       <item value="Strategy" />
       <item value="Robin" />
       <item value="simulates" />
-      <item value="Transformer" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="92" />
-        <entry key="ENGLISH" value="106" />
+        <entry key="CHINESE" value="93" />
+        <entry key="ENGLISH" value="107" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="CHINESE_CANTONESE" value="22" />
