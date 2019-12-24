@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="genre" />
+      <item value="configurator at main configuration passed on `app.Run`'s second argument." />
       <item value="sensitive" />
       <item value="dependencies" />
       <item value="repo" />
@@ -49,13 +51,11 @@
       <item value="nil" />
       <item value="strategy" />
       <item value="opponent" />
-      <item value="externalsort" />
-      <item value="chunk" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="102" />
-        <entry key="ENGLISH" value="116" />
+        <entry key="CHINESE" value="104" />
+        <entry key="ENGLISH" value="118" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="CHINESE_CANTONESE" value="22" />
