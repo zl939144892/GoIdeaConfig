@@ -5,6 +5,10 @@
   <action id="$Redo">
     <keyboard-shortcut first-keystroke="meta y" />
   </action>
+  <action id="ActivateDatabaseToolWindow">
+    <keyboard-shortcut first-keystroke="meta 2" />
+  </action>
+  <action id="ActivateFavoritesToolWindow" />
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="f12" />
   </action>
@@ -30,6 +34,7 @@
     <keyboard-shortcut first-keystroke="shift meta open_bracket" />
   </action>
   <action id="Diff.ShowDiff" />
+  <action id="DuplicatesForm.SendToRight" />
   <action id="Editor EditorTranslateAction">
     <keyboard-shortcut first-keystroke="meta t" />
   </action>
@@ -53,6 +58,7 @@
     <keyboard-shortcut first-keystroke="shift ctrl left" />
   </action>
   <action id="FileChooser.GotoDesktop" />
+  <action id="FileChooser.GotoProject" />
   <action id="FileStructurePopup">
     <keyboard-shortcut first-keystroke="meta r" />
   </action>
