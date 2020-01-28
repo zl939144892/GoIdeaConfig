@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Permanently" />
       <item value="the cost that will actually be set if a cost below MinCost is passed into GenerateFromPassword" />
       <item value="validate" />
       <item value="attached" />
@@ -50,12 +51,11 @@
       <item value="ReadString reads until the first occurrence of delim in the input," />
       <item value="delim" />
       <item value="sema" />
-      <item value="license" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="111" />
-        <entry key="ENGLISH" value="123" />
+        <entry key="CHINESE" value="112" />
+        <entry key="ENGLISH" value="124" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="CHINESE_CANTONESE" value="22" />
