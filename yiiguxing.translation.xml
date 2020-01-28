@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="the cost that will actually be set if a cost below MinCost is passed into GenerateFromPassword" />
       <item value="validate" />
       <item value="attached" />
       <item value="conforms" />
@@ -50,12 +51,11 @@
       <item value="delim" />
       <item value="sema" />
       <item value="license" />
-      <item value="cancel as soon as the operations running in this Context complete:" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="110" />
-        <entry key="ENGLISH" value="122" />
+        <entry key="CHINESE" value="111" />
+        <entry key="ENGLISH" value="123" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="CHINESE_CANTONESE" value="22" />
