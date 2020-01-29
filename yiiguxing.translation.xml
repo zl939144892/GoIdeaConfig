@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The args are for any placeholder parameters in the query." />
+      <item value="Query executes a query that returns rows, typically a SELECT." />
+      <item value="QueryRow executes a query that is expected to return at most one row." />
       <item value="claims" />
       <item value="Get returns the value for the given key, ie: (value, true)." />
       <item value="It also lazy initializes  c.Keys if it was not used previously." />
@@ -48,14 +51,11 @@
       <item value="Unix" />
       <item value="mutex" />
       <item value="Repo" />
-      <item value="Marshal" />
-      <item value="Indirect" />
-      <item value="reflect" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="122" />
-        <entry key="ENGLISH" value="134" />
+        <entry key="CHINESE" value="125" />
+        <entry key="ENGLISH" value="137" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="CHINESE_CANTONESE" value="22" />
