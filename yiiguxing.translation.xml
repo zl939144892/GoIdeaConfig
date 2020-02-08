@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="omitempty" />
       <item value="The args are for any placeholder parameters in the query." />
       <item value="Query executes a query that returns rows, typically a SELECT." />
       <item value="QueryRow executes a query that is expected to return at most one row." />
@@ -50,11 +51,10 @@
       <item value="Duration" />
       <item value="Unix" />
       <item value="mutex" />
-      <item value="Repo" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="125" />
+        <entry key="CHINESE" value="126" />
         <entry key="ENGLISH" value="137" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="CHINESE_CLASSICAL" value="1" />
@@ -64,6 +64,7 @@
         <entry key="RUSSIAN" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="NORWEGIAN" value="1" />
+        <entry key="PORTUGUESE" value="1" />
         <entry key="TURKISH" value="1" />
       </map>
     </option>
