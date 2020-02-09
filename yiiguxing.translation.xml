@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="exists" />
       <item value=" which could be embedded in your models" />
       <item value="Opera" />
       <item value="omitempty" />
@@ -50,12 +51,11 @@
       <item value="whether at least one value exists for the given key." />
       <item value="store" />
       <item value="Codecs" />
-      <item value="Duration" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="128" />
-        <entry key="ENGLISH" value="139" />
+        <entry key="CHINESE" value="129" />
+        <entry key="ENGLISH" value="140" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="CHINESE_CLASSICAL" value="1" />
         <entry key="CHINESE_CANTONESE" value="22" />
